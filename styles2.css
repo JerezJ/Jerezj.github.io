@@ -1,0 +1,13 @@
+body {
+    background: lightblue;
+    text-align: center;
+}
+
+
+
+#img_center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
